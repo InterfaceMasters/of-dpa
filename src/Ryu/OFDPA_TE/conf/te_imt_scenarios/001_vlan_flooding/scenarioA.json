@@ -1,0 +1,16 @@
+{
+    "working_set":
+        [
+        "te_imt_add_vlan_1.json",
+        "te_imt_add_vlan_2.json",
+        "te_imt_add_vlan_3.json",
+
+        "te_imt_add_group_l2_0x10001.json",
+        "te_imt_add_group_l2_0x10002.json",
+        "te_imt_add_group_l2_0x10003.json",
+
+        "te_imt_add_group_l2_0x40010001.json",
+
+        "te_imt_add_bridge.json"
+        ]
+}

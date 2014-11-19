@@ -1,0 +1,59 @@
+{
+"group_mod":
+        {
+        "_name" : "l2_0x40010001",
+        "_description" :"Description",
+        "#comments": "Comments",
+        "cmd" : "add",
+        "type" : "all",
+        "group_id" : "0x40010001",
+        "buckets":
+            [
+                {
+                "weight" : "1",
+                "watch_port":"any",
+                "watch_group":"any",
+                "actions":
+                    [
+                        {
+                        "group":
+                            {
+                            "group_id":"0x10001"
+                            }
+                        }
+                    ],
+                    "type":4
+                },
+                {
+                "weight" : "2",
+                "watch_port":"any",
+                "watch_group":"any",
+                "actions":
+                    [
+                        {
+                        "group":
+                            {
+                            "group_id":"0x10002"
+                            }
+                        }
+                    ],
+                    "type":4
+                },
+                {
+                "weight" : "3",
+                "watch_port":"any",
+                "watch_group":"any",
+                "actions":
+                    [
+                        {
+                        "group":
+                            {
+                            "group_id":"0x10003"
+                            }
+                        }
+                    ],
+                    "type":4
+                }
+            ]
+        }
+}

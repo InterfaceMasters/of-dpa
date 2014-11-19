@@ -1,8 +1,4 @@
 {
-    "#config_directory":"conf/te_tests",
-    "config_directory":"conf/te_demo",
-    "working_set  ": "scenarioA.json",
-    "#working_set": "scenarioB.json",
-    "#working_set": "AddACL.json",
-    "#working_set": "DelACL.json"
+    "config_directory":"conf/te_imt_scenarios/001_vlan_flooding",
+    "working_set": "scenarioA.json"
 }
