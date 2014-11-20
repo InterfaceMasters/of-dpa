@@ -1,4 +1,6 @@
 {
-    "config_directory":"conf/te_imt_scenarios/001_vlan_flooding",
+    "config_directory":"conf/te_imt_scenarios/000_cleanup",
+    "#config_directory":"conf/te_imt_scenarios/001_vlan_flooding",
+
     "working_set": "scenarioA.json"
 }

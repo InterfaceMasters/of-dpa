@@ -1,0 +1,18 @@
+{
+"group_mod":
+        {
+        "_name" : "clean_groups",
+        "_description" :"Description",
+        "#comments": "Comments",
+        "cmd" : "del",
+        "type": "all",
+        "group_id" : "all",
+
+        "buckets" :
+            [
+            ],
+        "instructions" :
+            [
+            ]
+        }
+}
